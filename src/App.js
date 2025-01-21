@@ -105,9 +105,10 @@ function App() {
       <h2 className="title">Vamos juntos salvar da Angel!</h2>
 
       <p>
-        Se estiver se sentindo confortável, você pode doar qualquer valor pelo Pix:
-        Para que possamos tentar realizar seus exames em clinicas pagas.
+        Se estiver se sentindo confortável, você pode doar qualquer valor pelo Pix. 
+        <span className="pix-highlight"> Chave: contatoajudeagegel@gmail.com</span>
       </p>
+
     </div>
   );
 }

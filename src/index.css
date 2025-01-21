@@ -70,3 +70,11 @@ p {
   line-height: 1.6;
   margin-top: 15px; /* Espaço entre parágrafos */
 }
+
+.pix-highlight {
+  color: #ff4081; /* Rosa ou qualquer cor de destaque */
+  font-weight: bold;
+  font-size: 1.1em; /* Opcional para aumentar o tamanho */
+  display: block; /* Faz o span ocupar toda a linha */
+  margin-top: 2px; /* Espaçamento opcional */
+}
